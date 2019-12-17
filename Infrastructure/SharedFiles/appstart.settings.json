@@ -1,0 +1,4 @@
+{
+  "nlog-configuration-file": "nlog.config",
+  "migrations-assembly": "Enigma.Domain.Migrations"
+}
